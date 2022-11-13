@@ -1,9 +1,8 @@
 {
     "name": "@auxfix/aux_math",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "native_math_module",
     "main": "aux_math.js",
-    "private": true,
     "dependencies": {
       "bindings": "~1.2.1",
       "node-addon-api": "^1.0.0"
